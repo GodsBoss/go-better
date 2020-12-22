@@ -6,4 +6,4 @@ Collection of [Go](https://golang.org/) packages for going (haha!) better. Or pr
 License?
 --------
 
-Yes, [GPL 3](./LICENSE.md).
+Yes, [GPL 3](./LICENSE).
