@@ -1,10 +1,10 @@
 package fmt_test
 
 import (
+	"github.com/GodsBoss/go-better/fmt"
+
 	"io"
 	"os"
-
-	"github.com/GodsBoss/go-better/fmt"
 )
 
 func ExampleSprintfln() {
